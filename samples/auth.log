@@ -1,0 +1,66 @@
+Oct 12 08:39:00 web01 sshd[2001]: Accepted publickey for alice from 192.0.2.10 port 57474 ssh2
+Oct 12 09:12:00 web01 sshd[2005]: Failed password for bob from 192.0.2.11 port 50122 ssh2
+Oct 12 09:12:09 web01 sshd[2006]: Accepted password for bob from 192.0.2.11 port 50130 ssh2
+Oct 12 09:40:00 web01 sudo[0]:      bob : TTY=pts/1 ; PWD=/home/bob ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 12 10:45:00 web01 sshd[2002]: Accepted publickey for alice from 192.0.2.10 port 51988 ssh2
+Oct 12 11:02:03 web01 sshd[2005]: Failed password for root from 203.0.113.45 port 53582 ssh2
+Oct 12 11:02:06 web01 sshd[2006]: Failed password for root from 203.0.113.45 port 43431 ssh2
+Oct 12 11:02:09 web01 sshd[2007]: Failed password for root from 203.0.113.45 port 57884 ssh2
+Oct 12 11:02:13 web01 sshd[2008]: Failed password for root from 203.0.113.45 port 63121 ssh2
+Oct 12 11:02:16 web01 sshd[2009]: Failed password for root from 203.0.113.45 port 56435 ssh2
+Oct 12 11:02:19 web01 sshd[2010]: Failed password for invalid user admin from 203.0.113.45 port 31168 ssh2
+Oct 12 11:02:22 web01 sshd[2011]: Failed password for invalid user admin from 203.0.113.45 port 37768 ssh2
+Oct 12 11:02:26 web01 sshd[2012]: Failed password for root from 203.0.113.45 port 41220 ssh2
+Oct 12 11:02:29 web01 sshd[2013]: Failed password for invalid user admin from 203.0.113.45 port 59960 ssh2
+Oct 12 11:02:32 web01 sshd[2014]: Failed password for root from 203.0.113.45 port 34410 ssh2
+Oct 12 11:02:33 web01 sshd[2015]: Failed password for root from 203.0.113.45 port 56703 ssh2
+Oct 12 11:02:34 web01 sshd[2016]: Failed password for invalid user admin from 203.0.113.45 port 31123 ssh2
+Oct 12 11:02:36 web01 sshd[2017]: Failed password for root from 203.0.113.45 port 36854 ssh2
+Oct 12 11:02:39 web01 sshd[2018]: Failed password for root from 203.0.113.45 port 59643 ssh2
+Oct 12 11:02:42 web01 sshd[2019]: Failed password for root from 203.0.113.45 port 51862 ssh2
+Oct 12 11:02:46 web01 sshd[2020]: Failed password for invalid user admin from 203.0.113.45 port 44994 ssh2
+Oct 12 11:02:47 web01 sshd[2021]: Failed password for invalid user admin from 203.0.113.45 port 50139 ssh2
+Oct 12 11:02:49 web01 sshd[2022]: Failed password for invalid user admin from 203.0.113.45 port 41848 ssh2
+Oct 12 11:02:51 web01 sshd[2023]: Failed password for invalid user admin from 203.0.113.45 port 33305 ssh2
+Oct 12 11:02:55 web01 sshd[2024]: Failed password for invalid user admin from 203.0.113.45 port 59831 ssh2
+Oct 12 11:02:56 web01 sshd[2025]: Failed password for invalid user admin from 203.0.113.45 port 61954 ssh2
+Oct 12 11:02:59 web01 sshd[2026]: Failed password for invalid user admin from 203.0.113.45 port 46861 ssh2
+Oct 12 11:03:02 web01 sshd[2027]: Failed password for root from 203.0.113.45 port 38551 ssh2
+Oct 12 11:03:03 web01 sshd[2028]: Failed password for root from 203.0.113.45 port 50712 ssh2
+Oct 12 11:03:04 web01 sshd[2029]: Failed password for root from 203.0.113.45 port 58800 ssh2
+Oct 12 11:03:07 web01 sshd[2030]: Failed password for root from 203.0.113.45 port 39827 ssh2
+Oct 12 11:03:11 web01 sshd[2031]: Failed password for root from 203.0.113.45 port 32808 ssh2
+Oct 12 11:03:15 web01 sshd[2032]: Failed password for root from 203.0.113.45 port 40195 ssh2
+Oct 12 11:03:16 web01 sshd[2033]: Failed password for invalid user admin from 203.0.113.45 port 60232 ssh2
+Oct 12 11:03:19 web01 sshd[2034]: Failed password for root from 203.0.113.45 port 34483 ssh2
+Oct 12 11:03:21 web01 sshd[2035]: Failed password for root from 203.0.113.45 port 47279 ssh2
+Oct 12 11:03:23 web01 sshd[2036]: Failed password for root from 203.0.113.45 port 38921 ssh2
+Oct 12 11:03:27 web01 sshd[2037]: Failed password for root from 203.0.113.45 port 58153 ssh2
+Oct 12 11:03:30 web01 sshd[2038]: Failed password for root from 203.0.113.45 port 44512 ssh2
+Oct 12 11:03:33 web01 sshd[2039]: Failed password for root from 203.0.113.45 port 42748 ssh2
+Oct 12 11:03:37 web01 sshd[2040]: Failed password for root from 203.0.113.45 port 60750 ssh2
+Oct 12 11:03:40 web01 sshd[2041]: Failed password for root from 203.0.113.45 port 31981 ssh2
+Oct 12 11:03:42 web01 sshd[2042]: Failed password for invalid user admin from 203.0.113.45 port 58670 ssh2
+Oct 12 11:03:45 web01 sshd[2043]: Failed password for invalid user admin from 203.0.113.45 port 50652 ssh2
+Oct 12 11:03:49 web01 sshd[2044]: Failed password for root from 203.0.113.45 port 44751 ssh2
+Oct 12 12:00:00 web01 CRON[999]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 12 13:36:00 web01 sshd[2003]: Accepted publickey for alice from 192.0.2.10 port 59195 ssh2
+Oct 12 14:05:24 web01 sshd[2045]: Invalid user oracle from 198.51.100.23 port 58840
+Oct 12 14:05:24 web01 sshd[2045]: Failed password for invalid user oracle from 198.51.100.23 port 54841 ssh2
+Oct 12 14:05:59 web01 sshd[2046]: Invalid user postgres from 198.51.100.23 port 54917
+Oct 12 14:05:59 web01 sshd[2046]: Failed password for invalid user postgres from 198.51.100.23 port 39441 ssh2
+Oct 12 14:06:33 web01 sshd[2047]: Failed password for ubuntu from 198.51.100.23 port 48063 ssh2
+Oct 12 14:07:12 web01 sshd[2048]: Invalid user test from 198.51.100.23 port 45513
+Oct 12 14:07:12 web01 sshd[2048]: Failed password for invalid user test from 198.51.100.23 port 55259 ssh2
+Oct 12 14:07:49 web01 sshd[2049]: Failed password for git from 198.51.100.23 port 35625 ssh2
+Oct 12 14:08:18 web01 sshd[2050]: Invalid user jenkins from 198.51.100.23 port 30188
+Oct 12 14:08:18 web01 sshd[2050]: Failed password for invalid user jenkins from 198.51.100.23 port 52445 ssh2
+Oct 12 14:08:35 web01 sshd[2051]: Invalid user ftp from 198.51.100.23 port 48036
+Oct 12 14:08:35 web01 sshd[2051]: Failed password for invalid user ftp from 198.51.100.23 port 62225 ssh2
+Oct 12 14:09:06 web01 sshd[2052]: Failed password for deploy from 198.51.100.23 port 55477 ssh2
+Oct 12 14:09:25 web01 sshd[2053]: Failed password for deploy from 198.51.100.23 port 32434 ssh2
+Oct 12 14:09:56 web01 sshd[2054]: Failed password for deploy from 198.51.100.23 port 54824 ssh2
+Oct 12 14:10:26 web01 sshd[2055]: Accepted password for deploy from 198.51.100.23 port 51999 ssh2
+Oct 12 14:12:26 web01 sudo[0]:   deploy : TTY=pts/2 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/bash
+Oct 12 16:46:00 web01 sshd[2004]: Accepted publickey for alice from 192.0.2.10 port 45429 ssh2
+Oct 12 17:31:00 web01 sshd[2059]: Accepted password for root from 192.0.2.50 port 41000 ssh2
