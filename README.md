@@ -36,7 +36,7 @@ A few details that make the detections more useful than a plain `grep`:
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/nightwatch.git
+git clone https://github.com/Kwame-w/nightwatch.git
 cd nightwatch
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
